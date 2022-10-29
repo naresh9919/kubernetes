@@ -28,6 +28,7 @@ You can follow same procedure in the official  AWS document [Getting started wit
    cd /tmp
    sudo mv /tmp/eksctl /usr/local/bin
    eksctl version
+   ls -l /usr/local/bin
    ```
   
 3. Create an IAM Role and attache it to EC2 instance
