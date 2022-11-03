@@ -33,7 +33,7 @@ You can follow same procedure in the official  AWS document [Getting started wit
   
 3. Create an IAM Role and attache it to EC2 instance
 4. go to --> aws --> IAM --> create role --> select permissions --> create
-   `Note: create IAM user with programmatic access if your bootstrap system is outside of AWS`   
+   `Note: create IAM user with programmatic access if your bootstrap system is outside of AWS` role : administrator access
    IAM user should have access to   
    IAM   
    EC2   
