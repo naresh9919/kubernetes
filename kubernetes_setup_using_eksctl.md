@@ -38,7 +38,7 @@ You can follow same procedure in the official  AWS document [Getting started wit
    roles : 
    Administrator access
    IAM   
-   EC2   
+   EC2 
    VPC    
    CloudFormation
    attach IAM to ec2 instance
