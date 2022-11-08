@@ -36,9 +36,11 @@ You can follow same procedure in the official  AWS document [Getting started wit
    `Note: create IAM user with programmatic access if your bootstrap system is outside of AWS` 
    IAM user should have access to   
    roles : 
+   
    Administrator access
+   
    IAM   
-   EC2 
+   EC2    
    VPC    
    CloudFormation
    attach IAM to ec2 instance
